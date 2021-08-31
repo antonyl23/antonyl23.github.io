@@ -22,18 +22,18 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Antony Lee",
+        "url": "http://linkedin.com/in/antony-lee-638841162/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "antonyl",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/ant.lee_23"
       }
     ]
   },
@@ -86,22 +86,22 @@
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.75",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Online Learning Academy",
+      "position": "Math tutor",
+      "website": "manoa.hawaii.edu/ola/",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Help students with math and science coursework",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Mentor and guide students through their coursework",
+        "Help to develop confidence in their academic abilities and also in general"
       ]
     },
     {
